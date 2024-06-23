@@ -18,6 +18,11 @@
   },
   "homepage": "https://github.com/Satya0611/NodejsCRUD#readme",
   "devDependencies": {
+    "@types/express": "^4.17.21",
+    "@types/node": "^20.14.8",
     "typescript": "^5.5.2"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
   }
 }
